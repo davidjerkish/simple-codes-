@@ -1,4 +1,4 @@
-# simple-codes-
+# simple-fun-codes-
 simple codes for children
 
 welcome 
