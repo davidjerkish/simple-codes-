@@ -13,3 +13,6 @@ i have given some fun codes in this repository like,
 
      it is a tool to interconvert between Celsius and Farenhite
     
+3.Kmph to mph converter
+
+     this tool can convert kmph to mph
